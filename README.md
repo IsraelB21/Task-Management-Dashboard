@@ -1,6 +1,6 @@
 # Velocity: Cloud-Ready Task Dashboard
 
-A high-performance, responsive task management application built with JavaScript. This project focuses on **Client-Side Persistence** and **Modern UI/UX principles**.
+A high-performance, responsive task management application built with JavaScript. This project focuses on Client-Side Persistence and UI/UX principles.
 
 ## Features
 - **Local Persistence**: Uses the Browser's `localStorage` API to ensure data remains available across sessions.
